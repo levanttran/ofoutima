@@ -3,11 +3,12 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
      <![CDATA[
-
+<table>
+<tr>
+<td width=”200px”>
 <p><b><font size="3">Pháp Thoại</font></b></p>
 				
-<ul><li><span title="I am hovering over the text">
-<a href="javascript:replacevideo('XVPw9knV_-w');" style="text-decoration:none" target=”_blank”><font face="arial, sans-serif">Năm Con Số - Khoá Tu Phật Thất 53</font></a>This is the text I want to have a mousover</span>
+<ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w');" style="text-decoration:none" target=”_blank”><font face="arial, sans-serif">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
 </li>
 
 <li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('VDnYtUmIc2c');" style="text-decoration:none">PK110: Hướng Về Thể Tánh Vô Niệm
@@ -70,9 +71,9 @@
  -->
 </li>
 </ul>
-<ol>
-</ol>
-<div>&nbsp; &nbsp; <a href="http://www.youtube.com/chuadalani">Xem toÃ n bá»™ videos Ä‘Ã£ Ä‘Äƒng</a>&nbsp;...</div>
+</td>
+<td>
+<div>&nbsp; &nbsp; <a href="http://www.youtube.com/chuadalani"> Xem toàn bộ videos đã đăng</a>&nbsp;...</div>
 				
 <p>&nbsp;</p>
 				
@@ -80,7 +81,7 @@
 </div>
 </td>
 <td>
-<div id = "x" style="width:100%">
+<div id = "x">
 <p><br>
 </p>
  </div>
