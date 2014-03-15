@@ -1,4 +1,10 @@
-<div>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="hello world example" /> 
+  <Content type="html">
+     <![CDATA[ 
+     
+     <div>
 		
 <div style="display:block;text-align:left"></div>
 <div style="display:inline;margin:5px 10px;float:right"></div>
@@ -238,5 +244,7 @@ Không dính mắc không phân chia tuyệt diệu<br>
 </p>
 	</div>
 
-
+    ]]>
+  </Content> 
+</Module>
 
