@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="hello world example" /> 
+  <ModulePrefs title="Pháp Thoại Videos" /> 
   <Content type="html">
      <![CDATA[
 <table>
@@ -72,7 +72,8 @@
 </li>
 </ul>
 <div>&nbsp; &nbsp; 
-<span style="font-size:10pt"><font face="arial, sans-serif"><a href="http://www.youtube.com/chuadalani"> Xem toàn bộ videos đã đăng</a>&nbsp;...</div>
+<span style="font-size:10pt"><font face="arial, sans-serif">
+<a href="http://www.youtube.com/chuadalani" target=”_blank”> Xem toàn bộ videos đã đăng</a>&nbsp;...</div>
 </td>
 <td>
 				
@@ -82,7 +83,7 @@
 </div>
 </td>
 <td>
-<div id = "x">
+<div id = "x"> Xin bấm vào tên video bên trái để xem ...
 <p><br>
 </p>
  </div>
