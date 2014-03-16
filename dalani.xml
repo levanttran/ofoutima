@@ -13,7 +13,7 @@
 <p><b><font size="3">Pháp Thoại</font></b></p>
 
  <div style="overflow-y:auto; height:300px;" width="100%">  	
-<ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
+<ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo2('XVPw9knV_-w','Năm Con Số - Khoá Tu Phật Thất 53');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
 </li>
 
 <li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('VDnYtUmIc2c');" style="text-decoration:none">PK110: Hướng Về Thể Tánh Vô Niệm
@@ -153,6 +153,11 @@
 <script language="javascript">
 function replacevideo(videoname) {
    var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + videoname + "\"></iframe>";
+   var div = document.getElementById("x");
+   div.innerHTML = html;
+}
+function replacevideo2(vid, videoname) {
+   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><br/>Đang phát: " + videoname + "<br/>";
    var div = document.getElementById("x");
    div.innerHTML = html;
 }
