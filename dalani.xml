@@ -132,7 +132,8 @@
 </div>
 </td>
 <td>
-<div id = "x"> Xin bấm vào tên video bên trái để xem ...
+<div id = "x"> 
+<iframe src="https://www.youtube.com/watch?v=XVPw9knV_-w">Xin bấm vào tên video bên trái để xem ...</iframe>
 <p><br>
 </p>
  </div>
