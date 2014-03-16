@@ -3,11 +3,16 @@
   <ModulePrefs title="Pháp Thoại Videos" /> 
   <Content type="html">
      <![CDATA[
+<style type="text/css">
+#videoList { overflow-y:auto; height:400px; }
+</style>
+
 <table>
 <tr>
 <td width=”200px”>
 <p><b><font size="3">Pháp Thoại</font></b></p>
-				
+
+ <div id=”videoList”>  	
 <ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
 </li>
 
@@ -112,7 +117,6 @@
 
 <li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('Cs0VJ23hSRg');" style="text-decoration:none">PK223: Đâu Là Bảo Vật</font></a></span></li>
 
-<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('jOWWV0f6tpA');" style="text-decoration:none">PK221: Pháp Bảo Vô Giá</font></a></span></li>
 
 <!--
 <li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('Fp4dLB7-vZ8');” style="text-decoration:none">Trong Ta Có A DI ĐÀ - Khoá Tu Phật Thất 70</a></font></span></li>
@@ -120,6 +124,9 @@
  -->
 </li>
 </ul>
+
+</div>
+
 <div>&nbsp; &nbsp; 
 <span style="font-size:10pt"><font face="arial, sans-serif">
 <a href="http://www.youtube.com/chuadalani" target=”_blank”> Xem toàn bộ videos đã đăng</a>&nbsp;...</div>
@@ -133,7 +140,7 @@
 </td>
 <td>
 <div id = "x"> 
-<iframe src="https://www.youtube.com/watch?v=XVPw9knV_-w">Xin bấm vào tên video bên trái để xem ...</iframe>
+<iframe src="https://www.youtube.com/watch?v=XVPw9knV_-w" width="420" height="345">Xin bấm vào tên video bên trái để xem ...</iframe>
 <p><br>
 </p>
  </div>
