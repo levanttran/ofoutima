@@ -3,16 +3,16 @@
   <ModulePrefs title="Pháp Thoại Videos" /> 
   <Content type="html">
      <![CDATA[
-<style type="text/css">
-#videoList { overflow-y:auto; height:400px; }
-</style>
+
+
+
 
 <table>
 <tr>
 <td width=”200px”>
 <p><b><font size="3">Pháp Thoại</font></b></p>
 
- <div id=”videoList”>  	
+ <div style="overflow-y:auto; height:400px;" width="100%">  	
 <ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
 </li>
 
