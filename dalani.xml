@@ -3,15 +3,13 @@
   <ModulePrefs title="Videos" /> 
   <Content type="html">
      <![CDATA[
-
 <table style="background-color:#f3eedc" width="100%">
 <tr>
 <td width=”10%”>
 <p><b><font size="3">Pháp Thoại</font></b></p>
-<p><b><font size="-2">(Xin bấm vào tên video để xem)</font></b></p>
+<p><b><font size="-2">(Xin bấm vào tên video dưới đây để xem)</font></b></p>
 
-
- <div style="overflow-y:auto; height:300px;" width="100%">  	
+<div style="overflow-y:auto; height:300px;" width="100%">  	
 <ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w','Năm Con Số - Khoá Tu Phật Thất 53');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
 </li>
 
@@ -125,15 +123,18 @@
 </div>
 
 <div><br/>
-<span style="font-size:10pt"><font face="arial, sans-serif">
-<a href="https://www.youtube.com/playlist?list=PL9ImerMyqseBdrxXgM-TAxWP2agTywHzh" target=”_blank”> Xem toàn bộ videos đã đăng</a>&nbsp;...</div>
+<span style="font-size:10pt;"><font face="arial, sans-serif">&nbsp;
+<a href="https://www.youtube.com/playlist?list=PL9ImerMyqseBdrxXgM-TAxWP2agTywHzh" style="text-decoration:none;" target=”_blank”>Xem toàn bộ videos đã đăng</a>... 
+<br/>
+</div>
 </td>
+
 <td width="10px">
 </td>
 <td>
 				
 <p>&nbsp;</p>
-				
+ 
 
 </div>
 </td>
@@ -151,7 +152,7 @@
 <script language="javascript">
 
 function replacevideo(vid, videoname) {
-   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><br/><span style=\"font-size:10pt\"><font face=\"arial, sans-serif\"><b>Đang phát:&nbsp;&nbsp;</b>" + videoname + "</font></span><br/>";
+   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><br/><span style=\"font-size:10pt;\"><font face=\"arial, sans-serif\"><b>Đang phát:&nbsp;&nbsp;&nbsp;&nbsp;</b>" + videoname + "</font></span><br/>";
    var div = document.getElementById("x");
    div.innerHTML = html;
 }
