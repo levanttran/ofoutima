@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="Videos" /> 
+  <Content type="html">
+     <![CDATA[
+<table style="background-color:#f3eedc" width="100%">
+<tr>
+<td width=”10%”>
+<p><b><font size="3">Pháp Thoại</font></b></p>
+<p><b><font size="-2">(Xin bấm vào tên video dưới đây để xem)</font></b></p>
+
+<div style="overflow-y:auto; height:300px;" width="100%">  	
+<ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w','Năm Con Số - Khoá Tu Phật Thất 53');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
+</li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('VDnYtUmIc2c','PK110: Hướng Về Thể Tánh Vô Niệm');" style="text-decoration:none">PK110: Hướng Về Thể Tánh Vô Niệm
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('kLiTvMw6_K0','PK117: Tư Duy Về Tánh Biết');" style="text-decoration:none">PK117: Tư Duy Về Tánh Biết 
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('alxuZ-bwh_Y','PK120: Tỉnh Thức Chiêm Bao');" style="text-decoration:none">PK120: Tỉnh Thức Chiêm Bao
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('OvGeYRiUTnk','PK121: Quán Chiếu Nhớ Nam Mô');" style="text-decoration:none">PK121: Quán Chiếu Nhớ Nam Mô
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('NBEa4BfnYIo','PK126: Hiển Bày Pháp Phật');" style="text-decoration:none">PK126: Hiển Bày Pháp Phật 
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('AJ5hwQLlP7M','PK133: Biết Vọng Tu Chân');" style="text-decoration:none">PK133: Biết Vọng Tu Chân
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('bcSKmN3Fu9c','PK135: Nhớ Lắng Nghe');" style="text-decoration:none">PK135: Nhớ Lắng Nghe 
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('z7y7qc41DEU','PK140: Trong Ta Có A Di Đà');" style="text-decoration:none">PK140: Trong Ta Có A Di Đà</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('u6UGCRmwVgU','K156: Tịnh Động Nhất Như');" style="text-decoration:none">PK156: Tịnh Động Nhất Như</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('lA-8BY38pVA','PK157: Hiển Lộ Tánh Biết');" style="text-decoration:none">PK157: Hiển Lộ Tánh Biết</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('EbofAGH_ArI','PK163: Tình Thương A Di Đà');" style="text-decoration:none">PK163: Tình Thương A Di Đà </font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('k8wT6_Xh56A','PK167: Tự Hỏi Tự Biết');" style="text-decoration:none">PK167: Tự Hỏi Tự Biết</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('C6J3vfbaoig','PK168: Tâm Pháp A Di Đà');" style="text-decoration:none">PK168: Tâm Pháp A Di Đà</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('vSw8DgNUq1s','PK172: Tu Khó Hay Dễ?');" style="text-decoration:none">PK172: Tu Khó Hay Dễ?</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('L0Sm1f1W8Dw','PK174: Biết Chuyển Hoá Năng Lực');" style="text-decoration:none">PK174: Biết Chuyển Hoá Năng Lực </font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('Vtz2yCF-b_E','PK175: Tuỳ Tâm Diệu Dụng');" style="text-decoration:none">PK175: Tuỳ Tâm Diệu Dụng</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('CSCcxkya3So','PK177: Gíác Ngộ Âm Thanh');" style="text-decoration:none">PK177: Gíác Ngộ Âm Thanh</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('tNkS2R-_0_g','PK181: Thấy Biết Chủ Động');" style="text-decoration:none">PK181: Thấy Biết Chủ Động </font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('1SJJ3y4Jdzo','PK182: Ngộ Chân Thường');" style="text-decoration:none">PK182: Ngộ Chân Thường</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('OaEZmuuTLfs','PK189: Nghe Thấy Biết');" style="text-decoration:none">PK189: Nghe Thấy Biết</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('OGIVGcuf0jY','PK190: Hiển Bày Tánh Biết');" style="text-decoration:none">PK190: Hiển Bày Tánh Biết</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('vyHkc8ZtX2k','PK191: Giác Ngộ Chân Như');" style="text-decoration:none">PK191: Giác Ngộ Chân Như</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('QsMG0M66XUI','PK193: Giác Ngộ Sống An Vui');" style="text-decoration:none">PK193: Giác Ngộ Sống An Vui</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('oJSU6OfIr_c','PK195: Quán Chiếu Thoát Mê Lầm');" style="text-decoration:none">PK195: Quán Chiếu Thoát Mê Lầm</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('vaPgaVDi_-E','PK196: Niệm Phật Thoát Ta Bà');" style="text-decoration:none">PK196: Niệm Phật Thoát Ta Bà</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('AnGas6k1nHE','PK198: Thấy Biết Chân Chánh');" style="text-decoration:none">PK198: Thấy Biết Chân Chánh</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('mFHliifZDMk','PK200: Ngũ Uẩn Giai Không');" style="text-decoration:none">PK200: Ngũ Uẩn Giai Không</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('MVyZEyS-dZo','PK201: Thấu Triệt Chân Lý');" style="text-decoration:none">PK201: Thấu Triệt Chân Lý</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('mZj9N0fWsqU','PK202: Từ Tâm Lưu Xuất');" style="text-decoration:none">PK202: Từ Tâm Lưu Xuất</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('ar7WdpKFKg0','PK203: Biết Tự Ngôn Sanh Diệt');" style="text-decoration:none">PK203: Biết Tự Ngôn Sanh Diệt</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('tz1ckLAtITI','PK205: Thấu Triệt Thật Giả');" style="text-decoration:none">PK205: Thấu Triệt Thật Giả</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('WNY60B8HP_A','PK208: Hiểu Biết Và Tình Thương');" style="text-decoration:none">PK208: Hiểu Biết Và Tình Thương</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('4Ph9cRQ5ljw','PK209: Biết Chuyển Hoá Tình Thương');" style="text-decoration:none">PK209: Biết Chuyển Hoá Tình Thương</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('uYYPIHURA-0','PK210: Tu Học Biết Giả Thật');" style="text-decoration:none">PK210: Tu Học Biết Giả Thật</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('MBZn-eWzwTU','PK211: Tán Dương Tánh Biết Vô Cùng Tận');" style="text-decoration:none">PK211: Tán Dương Tánh Biết Vô Cùng Tận</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('nDcVlSdLejA','PK212: Biết Độ Vọng Tưởng Tu');" style="text-decoration:none">PK212: Biết Độ Vọng Tưởng Tu</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('2RMu0b_qoJY','PK213: Yên Tĩnh Nhận Diện Chính Mình');" style="text-decoration:none">PK213: Yên Tĩnh Nhận Diện Chính Mình</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('NVdEcQPxdK4','PK214: Giác Ngộ Qua Vạn Vật');" style="text-decoration:none">PK214: Giác Ngộ Qua Vạn Vật</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('2RMu0b_qoJY','PK215: Quán Chiếu Thường Tỉnh Thức');" style="text-decoration:none">PK215: Quán Chiếu Thường Tỉnh Thức</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('rTUj_WMvSns','PK216: Biết Học Tu Tịnh Nghiệp');" style="text-decoration:none">PK216: Biết Học Tu Tịnh Nghiệp</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('BlsL6BUw2Ug','PK218: Tư Duy Về Chân Lý');" style="text-decoration:none">PK218: Tư Duy Về Chân Lý</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('UnlhEB7o_vE','PK219: Đâu Là Minh Sư?');" style="text-decoration:none">PK219: Đâu Là Minh Sư?</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('MDDlxfKhIe0','PK220: Đâu Là Chân Thật?');" style="text-decoration:none">PK220: Đâu Là Chân Thật?</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('jOWWV0f6tpA','PK221: Pháp Bảo Vô Giá');" style="text-decoration:none">PK221: Pháp Bảo Vô Giá</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('DtrQ7ous8aw','PK222: Thân Tâm Song Hành');" style="text-decoration:none">PK222: Thân Tâm Song Hành</font></a></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('Cs0VJ23hSRg','PK223: Đâu Là Bảo Vật?');" style="text-decoration:none">PK223: Đâu Là Bảo Vật?</font></a></span></li>
+
+
+<!--
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('Fp4dLB7-vZ8','Trong Ta Có A DI ĐÀ - Khoá Tu Phật Thất 70');” style="text-decoration:none">Trong Ta Có A DI ĐÀ - Khoá Tu Phật Thất 70</a></font></span></li>
+<li><span style="font-size:10pt"><font face="arial, sans-serif">Yên Tĩnh Nhận Diện Chính Mình</font></a></span>
+ -->
+</li>
+</ul>
+
+</div>
+
+<div><br/>
+<span style="font-size:10pt"><font face="arial, sans-serif">
+<a href="https://www.youtube.com/playlist?list=PL9ImerMyqseBdrxXgM-TAxWP2agTywHzh" target=”_blank”> Xem toàn bộ videos đã đăng</a>&nbsp;...</div>
+<br/>
+</td>
+<td width="10px">
+</td>
+<td>
+				
+<p>&nbsp;</p>
+				
+
+</div>
+</td>
+<td>
+<div id = "x"> 
+<img alt="TayPhuongTamThanh" width="420" height="345" src="https://63fc0340-a-62cb3a1a-s-sites.googlegroups.com/site/chuadalanivn/TayPhuongTamThanh-DB-01-002-noTitle.jpg"/>
+
+<p><br>
+</p>
+ </div>
+</td>
+</tr>
+</table>
+ 
+<script language="javascript">
+
+function replacevideo(vid, videoname) {
+   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><br/><span style=\"font-size:10pt\"><font face=\"arial, sans-serif\"><b>Đang phát:&nbsp;&nbsp;</b>" + videoname + "</font></span><br/>";
+   var div = document.getElementById("x");
+   div.innerHTML = html;
+}
+</script>
+
+     ]]>
+  </Content> 
+</Module>
+
+
+
