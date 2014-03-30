@@ -3,17 +3,22 @@
   <ModulePrefs title="Videos" /> 
   <Content type="html">
      <![CDATA[
+     
 <table style="background-color:#f3eedc" width="100%">
+<tr><td>&nbsp;</td></tr>
 <tr>
-<td width=”10%”>
-<p style="font-size:5px">
-<b><font size="3">Pháp Thoại</font></b></p>
-<p>
-<b><font size="-2">(Xin bấm vào tên video dưới đây để xem)</font></b></p>
+<td width=”305px”>
+<b>Pháp Thoại</b>
+<p style="font-size:5px">&nbsp;</p>
+<font size="-2">&nbsp;<b>(Xin bấm vào tên video dưới đây để xem)</b></font>
 
 <div style="overflow-y:auto; height:300px;" width="100%">  	
-<ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w','Năm Con Số - Khoá Tu Phật Thất 53');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
-</li>
+<ul>
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w','Năm Con Số - Khoá Tu Phật Thất 53');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53
+</a></font></span></li>
+
+<li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('-VvDG1Ko2kA','Trong Ta Có A DI ĐÀ - Khoá Tu Phật Thất 70');" style="text-decoration:none">Trong Ta Có A DI ĐÀ - Khoá Tu Phật Thất 70
+</a></font></span></li>
 
 <li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('VDnYtUmIc2c','PK110: Hướng Về Thể Tánh Vô Niệm');" style="text-decoration:none">PK110: Hướng Về Thể Tánh Vô Niệm
 </a></font></span></li>
@@ -133,28 +138,21 @@
 
 <td width="10px">
 </td>
-<td>
-				
-<p>&nbsp;</p>
- 
 
-</div>
-</td>
 <td>
-<p>&nbsp;</p>
-
 <div id = "x"> 
 <font size="2" color="#444444">
 
 <img alt="TayPhuongTamThanh" width="420" height="345" src="https://63fc0340-a-62cb3a1a-s-sites.googlegroups.com/site/chuadalanivn/TayPhuongTamThanh-DB-01-002-noTitle.jpg" onmouseover="this.src='https://63fc0340-a-62cb3a1a-s-sites.googlegroups.com/site/chuadalanivn/a-di-da-phat-8.jpg'"/>
 <p style="font-size:5px">&nbsp;</p>
 Chủ Đề: Sa Môn Thích Giác Liêm chủ giảng Tâm Pháp Giới "Nam Mô A DI ĐÀ PHẬT",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Gồm các bài Pháp chuyên sâu Tư Huệ và Thực Nghiệm Pháp Lý Tịnh Độ.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+gồm các bài Pháp chuyên sâu Tư Huệ và Thực Nghiệm Pháp Lý Tịnh Độ.
 </font>
+
+</div>
 <p>&nbsp;</p>
 
- </div>
 </td>
 </tr>
 
@@ -163,7 +161,7 @@ Gồm các bài Pháp chuyên sâu Tư Huệ và Thực Nghiệm Pháp Lý Tịn
 <script language="javascript">
 
 function replacevideo(vid, videoname) {
-   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><br/><span style=\"font-size:10pt;\"><font face=\"arial, sans-serif\"><b>Đang phát:&nbsp;&nbsp;&nbsp;&nbsp;</b>" + videoname + "</font></span><br/>";
+   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><p style=\"font-size:5px\">&nbsp;</p><span style=\"font-size:10pt;\"><font face=\"arial, sans-serif\">Đang phát:&nbsp;&nbsp;&nbsp;&nbsp;</b>" + videoname + "</font></span><br/>";
    var div = document.getElementById("x");
    div.innerHTML = html;
 }
