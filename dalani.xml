@@ -4,7 +4,8 @@
   <Content type="html">
      <![CDATA[
      
-<table style="background-color:#f3eedc" width="100%"> 
+<table style="background-color:#f3eedc" width="100%">
+<tr><td>&nbsp;</td></tr>
 <tr>
 <td width=”305px”>
 <font size="3"><b>Pháp Thoại</b></font>
@@ -139,8 +140,6 @@
 </td>
 
 <td>
-&nbsp; 
-
 <div id = "x"> 
 <font size="2" color="#444444">
 
@@ -162,7 +161,7 @@ gồm các bài Pháp chuyên sâu Tư Huệ và Thực Nghiệm Pháp Lý Tịn
 <script language="javascript">
 
 function replacevideo(vid, videoname) {
-   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><br/><span style=\"font-size:10pt;\"><font face=\"arial, sans-serif\"><p style=\"font-size:5px\">&nbsp;</p>Đang phát:&nbsp;&nbsp;&nbsp;&nbsp;</b>" + videoname + "</font></span><br/>";
+   var html = "<iframe width=\"420\" height=\"345\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><p style=\"font-size:5px\">&nbsp;</p><span style=\"font-size:10pt;\"><font face=\"arial, sans-serif\">Đang phát:&nbsp;&nbsp;&nbsp;&nbsp;</b>" + videoname + "</font></span><br/>";
    var div = document.getElementById("x");
    div.innerHTML = html;
 }
