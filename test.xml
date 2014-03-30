@@ -6,8 +6,10 @@
 <table style="background-color:#f3eedc" width="100%">
 <tr>
 <td width=”10%”>
-<p><b><font size="3">Pháp Thoại</font></b></p>
-<p><b><font size="-2">(Xin bấm vào tên video dưới đây để xem)</font></b></p>
+<p style="font-size:5px">
+<b><font size="3">Pháp Thoại</font></b></p>
+<p>
+<b><font size="-2">(Xin bấm vào tên video dưới đây để xem)</font></b></p>
 
 <div style="overflow-y:auto; height:300px;" width="100%">  	
 <ul><li><span style="font-size:10pt"><font face="arial, sans-serif"><a href="javascript:replacevideo('XVPw9knV_-w','Năm Con Số - Khoá Tu Phật Thất 53');" style="text-decoration:none">Năm Con Số - Khoá Tu Phật Thất 53</font></a>
@@ -139,7 +141,7 @@
 </div>
 </td>
 <td>
-<p style="font-size:5px">&nbsp;</p>
+<p>&nbsp;</p>
 
 <div id = "x"> 
 <font size="2" color="#444444">
