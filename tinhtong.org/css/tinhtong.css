@@ -1,0 +1,312 @@
+﻿/* Global Styles */
+
+body {
+    margin:0x;
+	}
+	
+td {
+	font:11px arial;
+	color:#333333;
+	}
+	
+a {
+	color: #cc0000;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+a:hover {
+	color: #990000;
+	text-decoration:underline;
+	}
+	
+/* ID Styles */
+	
+#navigation a {
+	font:10px arial;
+	color: #336666;
+	text-decoration:none;
+	letter-spacing:.1em;
+	}
+	
+#navigation a:hover {
+	color: #993300;
+	text-decoration:underline;
+	}
+
+#padding {
+	padding:20px 5px 20px 5px;
+	}
+	
+#weekdays th {
+	font:10px arial;
+	color: #ffffff;
+	letter-spacing:.2em;
+	}
+
+#calheader td {
+	font-weight:bold;
+	}
+
+/* Class Styles */
+.banner {
+	font-size: 10px;
+	color: white;
+	font-weight: bold;
+}
+
+.footNote {
+	bgcolor="#848447";
+	color: white;
+}
+.logo {
+	font:18px times new roman;
+	color: #333300;
+	letter-spacing:.4em;
+	font-weight:bold;
+	}
+
+.sidebarText {
+	font:14px time;
+	color: #336666;
+	line-height:16px;
+	}
+	
+.bodyText {
+	font:11px arial;
+	line-height:24px;
+	color:#333333;
+	font-style: normal;
+	}
+	
+.pageName {
+	font:20px times;
+	color: #CC3300;
+	letter-spacing:0.1em;
+	line-height:26px;
+	}
+	
+.subHeader {
+	font:14px georgia;
+	color: #669999;
+	font-weight:bold;
+	line-height:20px;
+	letter-spacing:.1em;
+	}
+	
+.navText {
+	font:10px arial;
+	color: #333300;
+	letter-spacing:.1em;
+	}
+	
+.calendarText {
+	font:11px arial;
+	line-height:14px;
+	color:#333333;
+	}
+	
+	
+.addressFootNote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 6px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	text-transform: none;
+	color: #666666;
+	text-decoration: none;
+}
+.select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #F0F0F0;
+	text-decoration: underline;
+	cursor: text;
+}
+.tableOfContent {
+	font:11px arial;
+	line-height:16px;
+	color:#333333;
+}
+.verse {
+	font:12px times;
+	line-height:6px;
+	color:#003300;
+	font-style: italic;
+	margin-left: 3px;
+}
+.verse2 {
+	font:12px times;
+	line-height:14px;
+	color:#003300;
+	font-style: italic;
+}
+
+.httk {
+	font:10px times;
+	line-height:6px;
+	color:#990000;
+	font-style: italic;
+}
+.keyWord {
+	font:12px arial;
+	line-height:24px;
+	color:#009999;
+	font-weight: bold;
+}
+ 
+.keyWord2 {
+	font:11px arial;
+	line-height:24px;
+	color:#669999;
+	font-weight: bold;
+}
+.keyWord3 {
+	font:11px arial;
+	color:#336699;
+	font-weight: bold;
+}
+
+
+.pageName2 {
+	font:14px times;
+	color: #330066;
+	letter-spacing:0.1em;
+	line-height:26px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.pageName3 {
+	font:14px Times;
+	color: #336686;
+	letter-spacing:0.1em;
+	line-height:26px;
+	text-transform: capitalize;
+	font-weight: bold;
+}
+.pageName1 {
+	font:14px times;
+	color: #CC3300;
+	letter-spacing:0.1em;
+	line-height:26px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.tto-tm {
+	font:10px arial;
+	color: #FFFFFF;
+	letter-spacing:0.1em;
+}
+
+<style type="text/css">
+
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.style-listing {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	margin-bottom: 4px;
+	line-height: 15px;
+}
+.style-listing2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	letter-spacing: 0.4em;
+	font-weight: bold;
+	line-height: 15px;
+	padding-bottom: 3px;
+}
+.style-listing-initCap {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	margin-bottom: 4px;
+	line-height: 15px;
+	text-transform: capitalize;
+}
+.style-listing-sidebar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+
+.style3 {font-size: 10px}
+.style6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.style7 {font-size: 10}
+.style11 {color: #333333}
+
+</style>.phamTuaKinh {
+	font:14px Times;
+	color: #336686;
+	letter-spacing:0.1em;
+	line-height:26px;
+	text-transform: capitalize;
+	font-weight: bold;
+}
+.tuaPhamKinh {
+	font:11px arial;
+	color: #336686;
+	line-height:26px;
+	text-transform: uppercase;
+}
+.address {
+	font:12px times;
+	line-height:14px;
+	color:#6699FF;
+	font-style: italic;
+}
+.candich {
+	font:12px times;
+	line-height:14px;
+	color:#FF9900;
+	font-style: italic;
+}
+.chuY {
+	font:12px times;
+	line-height:14px;
+	color:#FF0000;
+	font-style: italic;
+}
+.chuThich2 {
+	font: 10px times;
+	line-height: 10px;
+	color: #993300;
+	font-style: italic;
+	white-space: normal;
+}
+.bodyText2 {
+	font: 11px arial;
+	line-height: 18px;
+	color: #333333;
+	font-style: normal;
+}
+.logo2 {
+	font: 18px times new roman;
+	color: #333300;
+	letter-spacing: .4em;
+	font-weight: bold;
+}
+.chuThich {
+	font: 10px times;
+	line-height: 14px;
+	color: #993300;
+	font-style: italic;
+}
+.bodyText3 {
+	font: 11px arial;
+	line-height: 12px;
+	color: #333333;
+	font-style: normal;
+	background-color: #C0CDA8;
+}
