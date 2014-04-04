@@ -47,6 +47,10 @@ a:hover {
 	border-color: #F7F8CA;
 	letter-spacing: .4em;
 }
+.mainPanel {
+	border-style: outset;
+	background-color: #F7F8CA;
+}
 .menu {
 	background-color: #a4c2c2;
 }
