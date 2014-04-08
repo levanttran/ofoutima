@@ -5,7 +5,7 @@
 
 <head>
 <!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
-<title>TịnhTông.org >> Tài Liệu</title>
+<title>TịnhTông.org &gt;&gt; Tài Liệu</title>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <meta content="index, follow" name="robots" />
@@ -14,6 +14,23 @@
 <meta content="Tinh tong org, Tịnh Tông.org, sách đọc Phat Giao, " name="description" />
 <link href="css/tinhtong.css" rel="stylesheet" type="text/css" />
 <link href="images/tinhtong_icon2.jpg" rel="icon" type="image/jpg" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
+</script>
+
+<script language="javascript">
+function replacevideo(vid, videoname) {
+   var html = "<iframe width=\"230\" height=\"240\" src=\"https://www.youtube.com/embed/" + vid + "\"></iframe><br/><strong>&nbsp; Đang phát:&nbsp;&nbsp;&nbsp;  " + videoname + "</strong>";;
+   var div = document.getElementById("video");
+   div.innerHTML = html;
+}
+</script>
+
+<script>
+$(window).load(
+	function() {replacevideo('lbTmYZqDR4w','Học Kinh Vô Lượng Thọ - Phẩm 1');}
+);
+
+</script>
 <style type="text/css">
 <!--
 .style2 {
@@ -131,7 +148,8 @@
 	<table border="0" cellpadding="0" cellspacing="0" style="width: 960px">
 		<tr>
 			<td class="banner" height="30" nowrap="nowrap" width="100%">
-			<p>TịnhTông.org &gt;&gt; Tài Liệu</p>
+			<p>&nbsp; TịnhTông.org &gt;&gt; Tài Liệu &gt;&gt; Sách Nói - Học Kinh Vô 
+			Lượng Thọ</p>
 			</td>
 		</tr>
 		<tr bgcolor="#ffffff">
@@ -156,7 +174,9 @@
 	<table bgcolor="#F7F8CA" cellpadding="0" width="100%">
 		<tr bgcolor="#ffffff" width="100%">
 			<td bgcolor="#DBDCB4" valign="top">
+			<div id="video">
 			<img alt="Home Page Image" border="0" height="240" src="images/kinhVLT-img.jpg" />
+			</div>
 			<table border="0" cellpadding="0" cellspacing="0">
 				<tr>
 					<td bgcolor="#999966" width="15">&nbsp;</td>
@@ -824,7 +844,8 @@
 					<a href="https://www.youtube.com/playlist?list=PLS1qGEdEAca0RZo_P0vo1OMPawQ48PilT">
 					<img class="style23" height="13" longdesc="http://tinhkhongphapngu.net/data/video/1Voluong.wmv" src="images/tv-icon.gif" width="12" /></a></span><a href="https://www.youtube.com/watch?v=cp3krXUcogU&amp;feature=c4-overview&amp;list=UUlYms7IaRcAbLeJr7vSLFmA">
 					</a></span>)&nbsp; </p>
-					<table cellpadding="2" class="style24" style="width: 90%; height: 111px;">
+					<div style="text-align: center">
+					<table cellpadding="2" class="style24" style="width: 90%; height: 111px; text-align: left" >
 						<tr>
 							<td style="width: 128px">
 							<a href="taiLieu/phuTro/audio/KVLTGCDG/KVLTGCDG-Disc01.mp3">
@@ -920,6 +941,8 @@
 							<td style="width: 134px">&nbsp;</td>
 						</tr>
 					</table>
+								</div>
+
 					<!-- <p>&nbsp; 4.
 				<a href="taiLieu/phuTro/audio/misc/TapHocThuocLongKinhVoLuongThoHanViet.mp3">
 				<img class="style15" height="13" src="images/icons/mp3.jpg" width="13" /></a>
